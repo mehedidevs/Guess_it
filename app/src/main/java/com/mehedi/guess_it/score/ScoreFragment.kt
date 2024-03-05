@@ -1,5 +1,3 @@
-
-
 package com.mehedi.guess_it.score
 
 import android.os.Bundle
